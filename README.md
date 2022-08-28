@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-sample
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuya-matsunawa/contributions.svg)](http://qiita.com/ryuya-matsunawa)
 
 <!--
 **ryuya-matsunawa/ryuya-matsunawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
