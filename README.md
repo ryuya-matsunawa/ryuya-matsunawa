@@ -4,6 +4,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuya-matsunawa&theme=dracula)
 
+![](https://github-readme-stats.vercel.app/api?username=ryuya-matsunawa&count_private=true&show_icons=true&theme=dracula)
+
 <!--
 **ryuya-matsunawa/ryuya-matsunawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
