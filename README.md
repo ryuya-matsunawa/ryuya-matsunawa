@@ -4,17 +4,17 @@
 
 
 <picture>
-    <source src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/0-profile-details.svg" media="dark">
+    <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/0-profile-details.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/0-profile-details.svg">
 </picture>
 
 <div>
     <picture>
-        <source src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/3-stats.svg" media="dark">
+        <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/3-stats.svg" media="(prefers-color-scheme: dark)">
         <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/3-stats.svg">
     </picture>
     <picture>
-        <source src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/2-most-commit-language.svg" media="dark">
+        <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/2-most-commit-language.svg" media="(prefers-color-scheme: dark)">
         <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
     </picture>
 </div>
