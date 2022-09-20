@@ -26,6 +26,8 @@
 ## Trophy
 
 <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=ryuya-matsunawa&theme=onedark&column=4" media="(max-width: 768px)" width="100%">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryuya-matsunawa&theme=onedark&column=8">
+    <source srcset="https://github-profile-trophy.vercel.app/?username=ryuya-matsunawa&theme=onedark&column=4&no-frame=true&margin-w=15&margin-h=15" media="(max-width: 768px) and (prefers-color-scheme: dark)" width="100%">
+    <source srcset="https://github-profile-trophy.vercel.app/?username=ryuya-matsunawa&theme=onedark&column=8&no-frame=true&margin-w=15" media="(prefers-color-scheme: dark)" width="100%">
+    <source srcset="https://github-profile-trophy.vercel.app/?username=ryuya-matsunawa&theme=flat&column=8&no-frame=true&no-frame=true&margin-w=15" media="(min-width: 768px)" width="100%">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryuya-matsunawa&theme=flat&column=4&margin-w=15" width="100%">
 </picture>
