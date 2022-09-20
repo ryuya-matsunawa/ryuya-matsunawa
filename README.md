@@ -2,6 +2,7 @@
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuya-matsunawa/contributions.svg)](http://qiita.com/ryuya-matsunawa)
 
+![](https://komarev.com/ghpvc/?username=ryuya-matsunawa)
 
 <picture>
     <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/0-profile-details.svg" media="(prefers-color-scheme: dark)">
