@@ -18,7 +18,3 @@
         <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
     </picture>
 </div>
-
-## 今月の視聴・参加イベント
-
-- 9月21日12時0分〜 [開発効率が高いエンジニアを真似することから始める、エンジニア組織の改善サイクル](https://findy.connpass.com/event/259860/)
