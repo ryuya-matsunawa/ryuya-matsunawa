@@ -2,21 +2,19 @@
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuya-matsunawa/contributions.svg)](http://qiita.com/ryuya-matsunawa)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuya-matsunawa&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api?username=ryuya-matsunawa&count_private=true&show_icons=true&theme=dracula)
+<picture>
+    <source src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/0-profile-details.svg" media="dark">
+    <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/0-profile-details.svg">
+</picture>
 
-<!--
-**ryuya-matsunawa/ryuya-matsunawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <picture>
+        <source src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/3-stats.svg" media="dark">
+        <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/3-stats.svg">
+    </picture>
+    <picture>
+        <source src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/2-most-commit-language.svg" media="dark">
+        <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
+    </picture>
+</div>
