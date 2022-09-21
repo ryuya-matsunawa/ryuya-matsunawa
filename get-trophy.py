@@ -7,7 +7,6 @@ for column in (4, 8):
         else:
             r = requests.get(f"https://github-profile-trophy.vercel.app/?username=ryuya-matsunawa&theme={theme}&column={column}&no-frame=true&margin-w=15")
         
-        print(column, theme)
         file = open(f"./profile-trophy-output/trophy-{theme}-column-{column}.svg", mode="w")
         file.write(r.text)
         file.close()
