@@ -28,6 +28,6 @@
 <picture>
     <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-trophy-output/trophy-onedark-column-4.svg" media="(max-width: 768px) and (prefers-color-scheme: dark)" width="100%">
     <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-trophy-output/trophy-onedark-column-8.svg" media="(prefers-color-scheme: dark)" width="100%">
-    <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-trophy-output/trophy-flat-column-8.svg" media="(min-width: 768px)" width="100%">
-    <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-trophy-output/trophy-flat-column-4.svg" width="100%">
+    <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-trophy-output/trophy-oldie-column-8.svg" media="(min-width: 768px)" width="100%">
+    <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-trophy-output/trophy-oldie-column-4.svg" width="100%">
 </picture>
