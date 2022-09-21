@@ -1,11 +1,11 @@
-### Hi there 👋
+<img width="100%" src="./header.gif">
 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuya-matsunawa/contributions.svg)](http://qiita.com/ryuya-matsunawa)
 
 ![](https://komarev.com/ghpvc/?username=ryuya-matsunawa)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuya-matsunawa/contributions.svg)](http://qiita.com/ryuya-matsunawa)
 
 
-## Status
+# Status
 <picture>
     <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/dracula/0-profile-details.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/nord_bright/0-profile-details.svg" width="100%">
@@ -23,7 +23,7 @@
 </div>
 
 
-## Trophy
+# Trophy
 
 <picture>
     <source srcset="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-trophy-output/trophy-onedark-column-4.svg" media="(max-width: 768px) and (prefers-color-scheme: dark)" width="100%">
