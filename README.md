@@ -1,4 +1,4 @@
-<img width="100%" src="./header.gif">
+<img width="100%" src="https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/header.gif">
 
 
 ![](https://komarev.com/ghpvc/?username=ryuya-matsunawa)
