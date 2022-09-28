@@ -2,8 +2,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ryuya-matsunawa)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuya-matsunawa/contributions.svg)](http://qiita.com/ryuya-matsunawa)
-
 
 # Status
 <picture>
