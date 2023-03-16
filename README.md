@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>FrameWork</td>
-        <td></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></td>
         <td><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></td>
         <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></td>
@@ -73,7 +73,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">  </a>
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
  <a href="https://zapier.com" target="_blank" rel="noreferrer">  </a>
