@@ -66,15 +66,13 @@
         <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></td>
         <td><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/></td>
         <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></td>
-        <td></td>
+        <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></td>
         <td></td>
     </tr>
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">  </a>
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
  <a href="https://zapier.com" target="_blank" rel="noreferrer">  </a>
  </p>
 
