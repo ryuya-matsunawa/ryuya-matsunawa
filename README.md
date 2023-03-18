@@ -71,11 +71,6 @@
     </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://zapier.com" target="_blank" rel="noreferrer">  </a>
- </p>
-
 
 # Status
 <picture>
