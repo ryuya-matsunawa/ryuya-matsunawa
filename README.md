@@ -18,9 +18,6 @@
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></td>
         <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td>FrameWork</td>
