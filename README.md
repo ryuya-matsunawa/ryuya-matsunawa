@@ -30,9 +30,6 @@
         <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></td>
         <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td>DataBase</td>
