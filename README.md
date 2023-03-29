@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **algorithm with Atcoder.**
 
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
