@@ -11,6 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,ruby,python)](https://skillicons.dev)
 ### FrameWork
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,vue,nuxtjs)](https://skillicons.dev)
+### Library
+[![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
@@ -50,9 +52,6 @@
         <td>Library</td>
         <td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></td>
         <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></td>
-        <td>
-            [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-        </td>
         <td></td>
         <td></td>
     </tr>
