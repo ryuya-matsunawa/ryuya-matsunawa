@@ -13,6 +13,8 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,vue,nuxtjs,jquery,django)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+### Other
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 <table>
     <tr>
