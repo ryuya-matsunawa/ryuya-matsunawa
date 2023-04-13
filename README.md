@@ -14,7 +14,7 @@
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,xd,unity)](https://skillicons.dev)
 
 <table>
     <tr>
