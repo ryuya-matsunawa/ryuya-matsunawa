@@ -10,7 +10,7 @@
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,ruby,python)](https://skillicons.dev)
 ### FrameWork & Library
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue,nuxtjs,jquery,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue,nuxtjs,jquery,django,tailwind)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 ### Other
