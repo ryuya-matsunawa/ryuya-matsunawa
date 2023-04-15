@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ryuya-matsunawa/ryuya-matsunawa/main/profile-summary-card-output/transparent/4-productive-time.svg)
+```
+
+    
