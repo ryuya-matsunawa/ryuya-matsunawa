@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ryuya Matsunawa</h1>
 <h3 align="center">A web application developer from Japan.</h3>
 
-- 🔭 I’m currently working on **MEATATEAM,inc.**
+- 🔭 I’m currently working on **WED,inc.**
 
-- 🌱 I’m currently learning **algorithm with Atcoder.**
+- 🌱 I’m currently learning **Data engineering.**
 
 # Skill
 
